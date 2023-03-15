@@ -1,2 +1,2 @@
 #!/bin/bash
-escape BEST="School"
+escape BEST=School
